@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ramlan404/babybot.git"
+    "url": "git+https://github.com/mfadhil33/fadhilbot112.git"
   },
   "keywords": [
     "botwa",
@@ -20,12 +20,12 @@
     "babybot",
     "whatsapp"
   ],
-  "author": "Ramlan ID",
+  "author": "Fadhil ID",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ramlan404/babybot/issues"
+    "url": "https://github.com/mfadhil33/fadhilbot112/issues"
   },
-  "homepage": "https://github.com/Ramlan404/babybot#readme",
+  "homepage": "https://github.com/mfadhil33/fadhilbot112#readme",
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",
     "async": "^3.2.0",
